@@ -1,0 +1,21 @@
+body{
+  width: 100%;
+
+}
+.letsTalk {
+  text-align: center;
+}
+p {
+	margin: 0 0 3rem;
+	color: #e9967a;
+	font-family: cursive;
+	text-align: center;
+	font-size: 30px;
+}
+.quotes {
+	text-align: center;
+  margin-right: 45%;
+}
+img {
+	width: 100px;
+}
